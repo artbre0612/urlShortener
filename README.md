@@ -19,7 +19,7 @@ npm run dev
 ```
 當Terminal出現以下字樣，即代表伺服器啟動成功：
 Express server is running on http://localhost:3000
-現在，您可開啟任一瀏覽器輸入 http://localhost:3000 來使用縮網址服務。
+，您可開啟任一瀏覽器輸入網址來使用縮網址服務。
 ## 開發工具
 
 - server工具包: [Express](https://expressjs.com/)
