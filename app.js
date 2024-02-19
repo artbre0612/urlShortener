@@ -25,7 +25,7 @@ app.get('/shorten', (req, res) => {
   if(inputUrl.length > 0){
     const shortUrl = shorten(inputUrl, urls)
     res.render('shorten', { shortUrl })
-  }
+  } 
 })
 
 app.get('/:id', (req, res) => {
