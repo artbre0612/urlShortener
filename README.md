@@ -1,7 +1,7 @@
 # 短網址產生器 URL-shortener
 
 桌上型電腦或平板手機於網站內直接貼上網址即可進行縮網址服務。
-![image](https://github.com/artbre0612/urlShortener/screenshot/screenshot1.png)
+![image](https://github.com/artbre0612/urlShortener/main/screenshot/screenshot1.png)
 ![image](https://github.com/artbre0612/urlShortener/screenshot/screenshot2.png)
 ## Installation
 1. 開啟終端機 (Terminal)，cd 至存放本專案的資料夾，執行以下指令將本專案 clone 至本機電腦。
