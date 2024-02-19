@@ -10,8 +10,13 @@ app.set('views', './views');
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-  res.render('home')
+  res.render('index')
 })
+
+app.get('/shorten', (req, res) => {
+  res.render('shortened')
+})
+
 
 app.listen(port, () => {
   console.log(`express server is running on http://localhost:${port}`)
